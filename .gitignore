@@ -239,3 +239,12 @@ gradle-app.setting
 
 
 # End of https://www.gitignore.io/api/macos,maven,reactnative,visualstudiocode
+
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+test/unit/coverage
+test/e2e/reports
+selenium-debug.log
